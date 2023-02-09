@@ -1,0 +1,236 @@
+* {
+    margin: 0px;
+}
+
+/* Heading css */
+.heading {
+    background-image: url("../images/banner/banner2.png");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Header */
+
+.header {
+    text-align: right;
+    padding-top: 216px;
+    padding-bottom: 24px;
+    font-size: 65px;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin-right: 80px;
+
+}
+
+/* Header Details */
+.header-description {
+    text-align: right;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-right: 80px;
+}
+
+/* Header Button */
+.primary {
+    float: right;
+    margin-top: 32px;
+    padding: 18px 36px;
+    background: #F15B22;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: 700px;
+    border: 0;
+    margin-right: 80px;
+
+
+}
+
+/* Main part image */
+.main-img {
+    margin-top: 139px;
+}
+
+/* Main Part */
+.main {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+}
+
+/* Main caption */
+.caption {
+    margin-top: 370px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+
+/* Main part sub-caption */
+.main-caption {
+    color: #444343;
+    font-size: 16px;
+    margin: 24px 0px 18px 0px;
+}
+
+
+.main-cation,
+p {
+    margin-bottom: 8px;
+    color: #444343;
+    font-size: 16px;
+}
+
+/* icon */
+
+.icon {
+    color: #00FF00;
+}
+
+/* plan part caption */
+.plan-caption {
+    margin: 128px 0px 50px 0px;
+    color: #151414;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+/* my plan */
+.my-plan {
+    display: flex;
+    justify-content: center;
+    gap: 86px;
+}
+
+/* plan part heading */
+.plan-heading {
+    color: #151414;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 24px;
+}
+
+/* plan part sub-heading */
+.plan-sub-heading {
+    font-size: 25px;
+    font-weight: 500;
+    color: #737272;
+    margin-top: 16px;
+    margin-bottom: 124px;
+}
+
+/* Bonus part main content */
+
+.mindset {
+    background-image: url("../images/gradient2.png"), url("../images/watch.png");
+    background-blend-mode: normal;
+    background-repeat: no-repeat;
+    margin-left: 277px;
+    border-radius: 8px;
+
+}
+
+/* Bonus part heading */
+.mindset-heading {
+    color: #FFFFFF;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 64px 38px;
+
+}
+
+/* butoon in bonus part */
+.scnd-btn {
+    background-color: #FFFFFF;
+    color: #F15B22;
+    border: 0;
+    font-weight: 700;
+    padding: 18px 38px;
+    border-radius: 5px;
+    margin-left: 35px;
+    margin-bottom: 35px;
+}
+
+/* footer part */
+footer {
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+    background-color: #151414;
+    margin-top: 130px;
+
+
+}
+
+/* Footer Header */
+.footer-header {
+    font-size: 45px;
+    color: #FFFFFF;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-bottom: 18px;
+}
+
+/* footer text-part */
+.footer-description {
+    color: white;
+    font-size: 16px;
+}
+
+/* icon image in footer */
+
+.icon-img {
+    margin-top: 32px;
+    margin-bottom: 130px;
+    padding-right: 15px;
+}
+
+/* footer sub-header */
+.footer-subheader {
+    font-size: 25px;
+    color: #FFFFFF;
+    font-weight: 600;
+    margin-top: 130px;
+    margin-bottom: 31px;
+}
+
+/* Email input */
+input {
+    height: 30px;
+    width: 250px;
+    padding-left: 20px;
+    border-radius: 5px;
+}
+
+/* footer-Button */
+.warning {
+    color: #F15B22;
+    background-color: #FFFFFF;
+    border: 0;
+    font-weight: 700;
+    padding: 18px 38px;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+
+/* progress course and details */
+.progress {
+    display: flex;
+    justify-content: space-around;
+}
+
+/* progress section part  */
+.progress-section {
+    margin-top: 150px;
+
+}
+
+/* progress Heading for alignment and styles */
+.progress-heading {
+    color: #151414;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 24px;
+    margin-left: 20px;
+}
